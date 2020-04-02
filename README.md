@@ -1,4 +1,4 @@
-# Docker ML Docker 개발환경
+# Docker ML 개발환경
 ```
 JupyerLab, Airflow, Gogs, Postgres, ML(Tensorflow ...)
 ```
